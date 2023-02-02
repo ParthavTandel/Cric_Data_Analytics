@@ -11,7 +11,7 @@ Data Source: https://stats.espncricinfo.com/ci/engine/records/team/match_results
 
 STEP 2: Data Cleaning using Pandas library in Jupyter Notebook, stored the data into CSV file
 
-STEP 3: Remaining Data cleaning and analytics in Power Query and Power BI (Created custom columns in Power Query and calculated columns, measures in Power BI)
+STEP 3: Remaining Data cleaning and analytics in Power Query and Power BI (created custom columns in Power Query and calculated columns, measures in Power BI)
 
 Final Step: Dashboard creation in Power BI
 
